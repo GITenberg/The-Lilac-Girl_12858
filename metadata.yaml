@@ -1,0 +1,36 @@
+_repo: The-Lilac-Girl_12858
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Underwood, Clarence F.
+    gutenberg_agent_id: '7139'
+    url: http://www.gutenberg.org/2009/agents/7139
+  - agent_name: Holloway, Edward Stratton
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '31801'
+    url: http://www.gutenberg.org/2009/agents/31801
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2004-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: The Lilac Girl
+url: http://www.gutenberg.org/ebooks/12858
